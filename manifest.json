@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "get-youtube-text",
+    "version": "0.1",
+    "content_scripts": [
+        {
+          "matches": [
+            "https://www.youtube.com/*"
+          ],
+          "js": ["content.js"]
+        }
+      ],
+      "browser_action": {
+        "default_icon": "icon.png"
+      },
+      "background": {
+        "scripts": ["background.js"]
+      }
+  }
