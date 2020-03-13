@@ -1,11 +1,12 @@
 # Get youtube text
 
-[Chrome extensions - thoughtbot](https://thoughtbot.com/blog/how-to-make-a-chrome-extension)
+<!-- [Chrome extensions - thoughtbot](https://thoughtbot.com/blog/how-to-make-a-chrome-extension)
 
 [TTS API](https://developers.google.com/web/updates/2014/01/Web-apps-that-talk-Introduction-to-the-Speech-Synthesis-API)
 
-## usage instructions 
+-->
 
+## Installation 
 - click the green button, `clone or download`
   - click `download zip`
   - once downloaded, unzip the file locally 
@@ -15,6 +16,7 @@
 - select the extension’s directory (the one you downloaded and unziped) 
 - You should now see your extension in the list
 
+## Usage
 - go to a youtube video 
   - click on `...` menu
   - click `Open Transcript`
